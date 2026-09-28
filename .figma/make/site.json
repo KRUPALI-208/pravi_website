@@ -1,0 +1,10 @@
+{
+  "description": "Streamline e-Governance with a dark-mode dashboard for managing smart lighting assets, featuring real-time analytics, asset tracking, and maintenance automation.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
